@@ -3,6 +3,6 @@
 int main ()
 {
     printf("Hello");
-    retrun 0;
+    retrun 1;
 }
 
